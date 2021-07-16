@@ -1,0 +1,10 @@
+{
+    "name": "benutzer/test",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    
+    "require": {}
+}
